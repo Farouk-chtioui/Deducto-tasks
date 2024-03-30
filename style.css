@@ -58,11 +58,13 @@ body {
   }
   footer {
     color: #000000;
+    padding: 20px 0;
     position: fixed;
     bottom: 0;
     width: 100%;
+    text-align: center;
   }
   
-  .footer-content { 
-    text-align: center !important;
+  .footer-content {
+    text-align: center;
   }
